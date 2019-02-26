@@ -15,3 +15,8 @@ Practice\Algorithms\Warmup\Compare the Triplets<br/>
 https://www.hackerrank.com/challenges/compare-the-triplets/problem<br/>
 CompareTheTriplets.js<br/>
 --<br/>
+3.<br/>
+Practice\Algorithms\Warmup\Birthday Cake Candles<br/>
+https://www.hackerrank.com/challenges/birthday-cake-candles/problem<br/>
+BirthdayCakeCandles.js<br/>
+--<br/>
