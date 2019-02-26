@@ -21,17 +21,17 @@ https://www.hackerrank.com/challenges/birthday-cake-candles/problem<br/>
 BirthdayCakeCandles.js<br/>
 --<br/>
 4.<br/>
-Practice\Algorithms\Warmup\Grading Students<br/>
+Practice\Algorithms\Implementation\Grading Students<br/>
 https://www.hackerrank.com/challenges/grading/problem<br/>
 GradingStudents.js<br/>
 --<br/>
 5.<br/>
-Practice\Algorithms\Warmup\Kangaroo<br/>
+Practice\Algorithms\Implementation\Kangaroo<br/>
 https://www.hackerrank.com/challenges/kangaroo/problem<br/>
 Kangaroo.js<br/>
 --<br/>
 6.<br/>
-Practice\Algorithms\Warmup\Between Two Sets<br/>
+Practice\Algorithms\Implementation\Between Two Sets<br/>
 ckerrank.com/challenges/between-two-sets/problem<br/>
 BetweenTwoSets.js<br/>
 --<br/>
