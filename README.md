@@ -7,6 +7,10 @@ Since I've lost access to my BitBucket repository, I decided to start new one wi
 --<br/>
 1.<br/>
 practice\Algorithms\Warmup\Mini-Max Sum<br/>
-https://www.hackerrank.com/challenges/mini-max-sum/problem?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=24-hour-campaign<br/>
+https://www.hackerrank.com/challenges/mini-max-sum/problem<br/>
 code: MiniMaxSum.js<br/>
+--<br/>
+2.<br/>
+Practice\Algorithms\Warmup\Compare the Triplets<br/>
+https://www.hackerrank.com/challenges/compare-the-triplets/problem<br/>
 --<br/>
