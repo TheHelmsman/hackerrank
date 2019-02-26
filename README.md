@@ -20,3 +20,8 @@ Practice\Algorithms\Warmup\Birthday Cake Candles<br/>
 https://www.hackerrank.com/challenges/birthday-cake-candles/problem<br/>
 BirthdayCakeCandles.js<br/>
 --<br/>
+4.<br/>
+Practice\Algorithms\Warmup\Grading Students<br/>
+https://www.hackerrank.com/challenges/grading/problem<br/>
+GradingStudents.js<br/>
+--<br/>
