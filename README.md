@@ -13,4 +13,5 @@ code: MiniMaxSum.js<br/>
 2.<br/>
 Practice\Algorithms\Warmup\Compare the Triplets<br/>
 https://www.hackerrank.com/challenges/compare-the-triplets/problem<br/>
+CompareTheTriplets.js
 --<br/>
