@@ -25,3 +25,8 @@ Practice\Algorithms\Warmup\Grading Students<br/>
 https://www.hackerrank.com/challenges/grading/problem<br/>
 GradingStudents.js<br/>
 --<br/>
+5.<br/>
+Practice\Algorithms\Warmup\Kangaroo<br/>
+https://www.hackerrank.com/challenges/kangaroo/problem<br/>
+Kangaroo.js<br/>
+--<br/>
