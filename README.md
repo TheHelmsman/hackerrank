@@ -32,6 +32,11 @@ Kangaroo.js<br/>
 --<br/>
 6.<br/>
 Practice\Algorithms\Implementation\Between Two Sets<br/>
-ckerrank.com/challenges/between-two-sets/problem<br/>
+https://www.hackerrank.com/challenges/between-two-sets/problem<br/>
 BetweenTwoSets.js<br/>
+--<br/>
+7.<br/>
+Practice\Algorithms\Strings\Between Two Sets<br/>
+https://www.hackerrank.com/challenges/camelcase/problem<br/>
+CamelCase.js<br/>
 --<br/>
