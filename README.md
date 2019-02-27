@@ -40,3 +40,8 @@ Practice\Algorithms\Strings\Between Two Sets<br/>
 https://www.hackerrank.com/challenges/camelcase/problem<br/>
 CamelCase.js<br/>
 --<br/>
+8.<br/>
+Practice\Algorithms\Strings\Strong Password<br/>
+https://www.hackerrank.com/challenges/strong-password/problem<br/>
+StrongPassword.js<br/>
+--<br/>
