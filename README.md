@@ -50,3 +50,8 @@ Practice\Algorithms\Strings\Caesar Cipher<br/>
 https://www.hackerrank.com/challenges/caesar-cipher-1/problem<br/>
 CaesarCipher.js<br/>
 --<br/>
+10.<br/>
+Practice\Algorithms\Strings\HackerRank in a String!<br/>
+https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem<br/>
+HackerrankInAString.js<br/>
+--<br/>
