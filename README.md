@@ -55,3 +55,8 @@ Practice\Algorithms\Strings\HackerRank in a String!<br/>
 https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem<br/>
 HackerrankInAString.js<br/>
 --<br/>
+11.<br/>
+Practice\Algorithms\Sorting\Insertion Sort - Part 1<br/>
+https://www.hackerrank.com/challenges/insertionsort1/problem<br/>
+InsertionSort1.js<br/>
+--<br/>
