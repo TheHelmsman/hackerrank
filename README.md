@@ -60,3 +60,8 @@ Practice\Algorithms\Sorting\Insertion Sort - Part 1<br/>
 https://www.hackerrank.com/challenges/insertionsort1/problem<br/>
 InsertionSort1.js<br/>
 --<br/>
+12.<br/>
+Practice\Algorithms\Implementation\Breaking the Records<br/>
+https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem<br/>
+BreakingTheRecords.js<br/>
+--<br/>
