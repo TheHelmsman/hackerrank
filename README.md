@@ -65,3 +65,8 @@ Practice\Algorithms\Implementation\Breaking the Records<br/>
 https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem<br/>
 BreakingTheRecords.js<br/>
 --<br/>
+13.<br/>
+Practice\Algorithms\Implementation\Divisible Sum Pairs<br/>
+https://www.hackerrank.com/challenges/divisible-sum-pairs/problem<br/>
+DivisibleSumPairs.js<br/>
+--<br/>
