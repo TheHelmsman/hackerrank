@@ -70,3 +70,8 @@ Practice\Algorithms\Implementation\Divisible Sum Pairs<br/>
 https://www.hackerrank.com/challenges/divisible-sum-pairs/problem<br/>
 DivisibleSumPairs.js<br/>
 --<br/>
+14.<br/>
+Practice\Algorithms\Sorting\Insertion Sort - Part 2<br/>
+https://www.hackerrank.com/challenges/insertionsort2/problem<br/>
+InsertionSort2.js<br/>
+--<br/>
