@@ -75,3 +75,8 @@ Practice\Algorithms\Sorting\Insertion Sort - Part 2<br/>
 https://www.hackerrank.com/challenges/insertionsort2/problem<br/>
 InsertionSort2.js<br/>
 --<br/>
+15.
+PracticeAlgorithmsSearchIce Cream Parlor<br/>
+https://www.hackerrank.com/challenges/icecream-parlor/problem<br/>
+IceCreamParlor.js<br/>
+--<br/>
