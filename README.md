@@ -76,7 +76,7 @@ https://www.hackerrank.com/challenges/insertionsort2/problem<br/>
 InsertionSort2.js<br/>
 --<br/>
 15.
-PracticeAlgorithmsSearchIce Cream Parlor<br/>
+Practice\Algorithms\Search\Ice Cream Parlor<br/>
 https://www.hackerrank.com/challenges/icecream-parlor/problem<br/>
 IceCreamParlor.js<br/>
 --<br/>
